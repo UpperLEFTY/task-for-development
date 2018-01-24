@@ -1,5 +1,5 @@
 /**
- * System configuration for Angular samples
+ * main js configuration for Angular app.
  * Adjust as necessary for your application needs.
  */
 (function (global) {
