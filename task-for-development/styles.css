@@ -18,3 +18,4 @@
  
 .page scale {
     display: inline-block;
+    overflow: hidden;
