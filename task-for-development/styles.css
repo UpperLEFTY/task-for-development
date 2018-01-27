@@ -10,9 +10,9 @@
 @media print {
   @page {
    size: 297mm 210mm; /* landscape */
-    /* you can also specify margins here: */
+    /* specify margins here: */
     margin: 25mm;
-    margin-right: 45mm; /* for compatibility with both A4 and Letter */
+    margin-right: 45mm; 
    }
 }
       
