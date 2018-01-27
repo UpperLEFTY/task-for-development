@@ -19,3 +19,6 @@
 .page scale {
     display: inline-block;
     overflow: hidden;
+    width: 1024px;
+    height: 768px;
+    
