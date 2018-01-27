@@ -10,4 +10,5 @@
 @media print {
   @page {
    size: 297mm 210mm; /* landscape */
+    /* you can also specify margins here: */
       
