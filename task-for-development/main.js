@@ -1,6 +1,6 @@
 /**
  * main js configuration for Angular app.
- * Adjust as necessary for your application needs.
+ * Adjust as necessary.
  */
 (function (global) {
   System.config({
