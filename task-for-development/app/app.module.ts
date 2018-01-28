@@ -18,10 +18,7 @@ import { FormsModule } from '@angular/forms';
 import { TextMaskModule } from 'angular2-text-mask';
 
 @NgModule({
-  imports: [BrowserModule]
-    FormsModule,
-    TextMaskModule
-  ],
+  imports: [BrowserModule, FormsModule, TextMaskModule],
   declarations: [AppComponent, Main]
 })
 export class MyModule {}
