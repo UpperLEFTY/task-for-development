@@ -12,3 +12,16 @@ import { routing }  from './app.routing';
   bootstrap : [ AppComponent ] // root component to bootstarp
 })
 export class AppModule { }
+
+import { NgModule } from '@angular/core';
+import { FormsModule } from '@angular/forms';
+import { TextMaskModule } from 'angular2-text-mask';
+
+@NgModule({
+  imports: [BrowserModule]
+    FormsModule,
+    TextMaskModule
+  ],
+  declarations: [AppComponent, Main]
+})
+export class MyModule {}
